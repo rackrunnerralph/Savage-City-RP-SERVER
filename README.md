@@ -1,4 +1,4 @@
-[savage_city_rp_promo_updated.html](https://github.com/user-attachments/files/23320859/savage_city_rp_promo_updated.html)
+
 
 <!DOCTYPE html>
 <html lang="en">
